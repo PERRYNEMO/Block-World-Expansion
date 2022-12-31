@@ -1,0 +1,8 @@
+name: LzsAddBlock
+version: '${project.version}'
+main: be.perrynemo.addblock.Main
+api-version: 1.19
+commands:
+  addblock:
+    permission: "block.add"
+
