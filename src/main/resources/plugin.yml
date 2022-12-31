@@ -1,4 +1,4 @@
-name: LzsAddBlock
+name: Block-World-Expansion
 version: '${project.version}'
 main: be.perrynemo.addblock.Main
 api-version: 1.19
